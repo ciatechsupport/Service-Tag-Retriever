@@ -1,0 +1,13 @@
+F:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\bin\Release\Service Tag Retriever.exe.config
+F:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\bin\Release\Service Tag Retriever.exe.manifest
+F:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\bin\Release\Service Tag Retriever.application
+F:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\bin\Release\Service Tag Retriever.exe
+F:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\bin\Release\Service Tag Retriever.pdb
+F:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\obj\Release\Service_Tag_Retriever.Form1.resources
+F:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\obj\Release\Service_Tag_Retriever.Properties.Resources.resources
+F:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\obj\Release\Service Tag Retriever.csproj.GenerateResource.Cache
+F:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\obj\Release\Service Tag Retriever.TrustInfo.xml
+F:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\obj\Release\Service Tag Retriever.exe.manifest
+F:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\obj\Release\Service Tag Retriever.application
+F:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\obj\Release\Service Tag Retriever.exe
+F:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\obj\Release\Service Tag Retriever.pdb

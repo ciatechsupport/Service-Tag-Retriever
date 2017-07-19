@@ -1,0 +1,28 @@
+D:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\bin\Debug\Service Tag Retriever.exe.config
+D:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\bin\Debug\Service Tag Retriever.exe
+D:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\bin\Debug\Service Tag Retriever.pdb
+D:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\obj\Debug\Service Tag Retriever.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\obj\Debug\Service_Tag_Retriever.Form1.resources
+D:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\obj\Debug\Service_Tag_Retriever.Properties.Resources.resources
+D:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\obj\Debug\Service Tag Retriever.csproj.GenerateResource.Cache
+D:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\obj\Debug\Service Tag Retriever.exe
+D:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\obj\Debug\Service Tag Retriever.pdb
+D:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\bin\Debug\Service Tag Retriever.exe.manifest
+D:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\bin\Debug\Service Tag Retriever.application
+D:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\obj\Debug\Service Tag Retriever.TrustInfo.xml
+D:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\obj\Debug\Service Tag Retriever.exe.manifest
+D:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\obj\Debug\Service Tag Retriever.application
+F:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\bin\Debug\Service Tag Retriever.exe.config
+F:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\obj\Debug\Service Tag Retriever.exe
+F:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\obj\Debug\Service Tag Retriever.pdb
+F:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\bin\Debug\Service Tag Retriever.exe.manifest
+F:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\bin\Debug\Service Tag Retriever.application
+F:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\bin\Debug\Service Tag Retriever.exe
+F:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\bin\Debug\Service Tag Retriever.pdb
+F:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\obj\Debug\Service Tag Retriever.csprojResolveAssemblyReference.cache
+F:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\obj\Debug\Service_Tag_Retriever.Form1.resources
+F:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\obj\Debug\Service_Tag_Retriever.Properties.Resources.resources
+F:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\obj\Debug\Service Tag Retriever.csproj.GenerateResource.Cache
+F:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\obj\Debug\Service Tag Retriever.TrustInfo.xml
+F:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\obj\Debug\Service Tag Retriever.exe.manifest
+F:\Visual Studio Projects\Service Tag Retriever\Service Tag Retriever\obj\Debug\Service Tag Retriever.application
